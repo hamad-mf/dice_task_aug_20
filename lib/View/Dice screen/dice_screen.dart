@@ -38,6 +38,7 @@ class _DiceScreenState extends State<DiceScreen> {
               onTap: () {
                 setState(() {
                   imagelist.shuffle(Random());
+                  
                 });
               },
               child: Container(

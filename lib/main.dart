@@ -1,4 +1,3 @@
-import 'package:dice_task_aug_20/View/Home%20screen/Home_screen.dart';
 import 'package:dice_task_aug_20/View/Start%20screen/Start_screen.dart';
 import 'package:flutter/material.dart';
 
